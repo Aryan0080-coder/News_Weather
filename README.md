@@ -252,4 +252,3 @@ For support, email or create an issue on GitHub:
 - [ ] Offline capability
 - [ ] AI-powered news summarization
 
----
