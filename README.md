@@ -48,10 +48,6 @@ A modern, real-time news and weather application built with React and Vite. Stay
 
 ### Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/DUSHYANT2026/News-Weather.git
-
 # Navigate to the project directory
 cd newsweather
 
@@ -231,12 +227,6 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
-
-**Dushyant Kumar**
-
-- GitHub: [@DUSHYANT2026](https://github.com/DUSHYANT2026)
-- LinkedIn: [Dushyant Kumar](https://www.linkedin.com/in/dushyant-kumar-b8594a251/)
 
 ## 🙏 Acknowledgments
 
@@ -263,5 +253,3 @@ For support, email or create an issue on GitHub:
 - [ ] AI-powered news summarization
 
 ---
-
-**Made with ❤️ by Dushyant Kumar**
